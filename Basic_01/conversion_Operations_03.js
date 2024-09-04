@@ -15,10 +15,25 @@
 let value=2;
 let negativeValue=-value;
 
-console.log(negativeValue)
+//console.log(negativeValue)
 
-console.log(2+2);
-console.log(2-2);
-console.log(2*2);
-console.log(2**4) //2 raised to the power 4
+//console.log(2+2);
+//console.log(2-2);
+//console.log(2*2);
+//console.log(2**4) //2 raised to the power 4
+//console.log(2/4);
+//console.log(2%3)
 
+let str1="Arham"
+let str2=" Bashir"
+//console.log(str1+str2)
+
+//console.log("1"+2);
+//console.log(1+"2")  if first value is string then next all treated as string
+//console.log("1"+2+5) if first values are integer then after calclating that remaining as considered according to the type
+
+
+//console.log(3+4*5%3)  bad practice
+
+//console.log(+true) //convert boolean to int
+// console.log(+"") // "" it will converted to 0(false)
